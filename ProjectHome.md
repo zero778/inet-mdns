@@ -1,0 +1,1 @@
+A native Erlang implementation of multicast DNS, also known as Bonjour or Zeroconf.
